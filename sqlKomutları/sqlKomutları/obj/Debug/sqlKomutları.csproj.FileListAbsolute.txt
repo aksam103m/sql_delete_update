@@ -1,0 +1,12 @@
+C:\Users\103A-7\source\repos\sqlKomutları\sqlKomutları\bin\Debug\sqlKomutları.exe.config
+C:\Users\103A-7\source\repos\sqlKomutları\sqlKomutları\bin\Debug\sqlKomutları.exe
+C:\Users\103A-7\source\repos\sqlKomutları\sqlKomutları\bin\Debug\sqlKomutları.pdb
+C:\Users\103A-7\source\repos\sqlKomutları\sqlKomutları\obj\Debug\sqlKomutları.csproj.AssemblyReference.cache
+C:\Users\103A-7\source\repos\sqlKomutları\sqlKomutları\obj\Debug\sqlKomutları.csproj.SuggestedBindingRedirects.cache
+C:\Users\103A-7\source\repos\sqlKomutları\sqlKomutları\obj\Debug\sqlKomutları.Form1.resources
+C:\Users\103A-7\source\repos\sqlKomutları\sqlKomutları\obj\Debug\sqlKomutları.Properties.Resources.resources
+C:\Users\103A-7\source\repos\sqlKomutları\sqlKomutları\obj\Debug\sqlKomutları.csproj.GenerateResource.cache
+C:\Users\103A-7\source\repos\sqlKomutları\sqlKomutları\obj\Debug\sqlKomutları.csproj.CoreCompileInputs.cache
+C:\Users\103A-7\source\repos\sqlKomutları\sqlKomutları\obj\Debug\sqlKomutları.exe
+C:\Users\103A-7\source\repos\sqlKomutları\sqlKomutları\obj\Debug\sqlKomutları.pdb
+C:\Users\103A-7\source\repos\sqlKomutları\sqlKomutları\obj\Debug\sqlKomutları.Form2.resources
