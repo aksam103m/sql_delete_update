@@ -1,0 +1,12 @@
+C:\Users\103A-7\Desktop\Disconnected_mimari\Disconnected_mimari\bin\Debug\Disconnected_mimari.exe.config
+C:\Users\103A-7\Desktop\Disconnected_mimari\Disconnected_mimari\bin\Debug\Disconnected_mimari.exe
+C:\Users\103A-7\Desktop\Disconnected_mimari\Disconnected_mimari\bin\Debug\Disconnected_mimari.pdb
+C:\Users\103A-7\Desktop\Disconnected_mimari\Disconnected_mimari\obj\Debug\Disconnected_mimari.csproj.AssemblyReference.cache
+C:\Users\103A-7\Desktop\Disconnected_mimari\Disconnected_mimari\obj\Debug\Disconnected_mimari.csproj.SuggestedBindingRedirects.cache
+C:\Users\103A-7\Desktop\Disconnected_mimari\Disconnected_mimari\obj\Debug\Disconnected_mimari.Form1.resources
+C:\Users\103A-7\Desktop\Disconnected_mimari\Disconnected_mimari\obj\Debug\Disconnected_mimari.Kategoriform.resources
+C:\Users\103A-7\Desktop\Disconnected_mimari\Disconnected_mimari\obj\Debug\Disconnected_mimari.Properties.Resources.resources
+C:\Users\103A-7\Desktop\Disconnected_mimari\Disconnected_mimari\obj\Debug\Disconnected_mimari.csproj.GenerateResource.cache
+C:\Users\103A-7\Desktop\Disconnected_mimari\Disconnected_mimari\obj\Debug\Disconnected_mimari.csproj.CoreCompileInputs.cache
+C:\Users\103A-7\Desktop\Disconnected_mimari\Disconnected_mimari\obj\Debug\Disconnected_mimari.exe
+C:\Users\103A-7\Desktop\Disconnected_mimari\Disconnected_mimari\obj\Debug\Disconnected_mimari.pdb
